@@ -1,1 +1,2 @@
-This file of .py is to finish data preprocess
+本仓库的主要作用是将不同类别的图片（.jpg/.png）处理成可以直接用于模型训练的数据，以numpy矩阵的形式。代码中有详细的注释供大家参考。
+本仓库使用python语言进行编程。
